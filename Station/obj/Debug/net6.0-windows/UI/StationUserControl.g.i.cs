@@ -141,7 +141,7 @@ namespace Station.UI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Station;component/ui/stationusercontrol.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Station;V1.0.0.0;component/ui/stationusercontrol.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UI\StationUserControl.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
