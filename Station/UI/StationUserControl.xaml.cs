@@ -27,6 +27,7 @@ public partial class StationUserControl : UserControl
     private Task serchPathTask;
     public StationUserControl() {
         InitializeComponent();
+
         OnStart();
         
     }
