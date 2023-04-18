@@ -1,0 +1,22 @@
+﻿<Window xmlns:UI="clr-namespace:Station.UI"  x:Class="Station.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Station"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1500">
+    <Grid >
+        
+        
+        <Menu Grid.Row="0">
+            <MenuItem Header="Create new " x:Name="CreateNewDocButton" Click="CreateNewDocument"></MenuItem>
+            <MenuItem Header="Open" x:Name="OpenDoc" Click="OpenDoc_Click"></MenuItem>
+            <MenuItem Header="SaveAs" x:Name="SaveAsButton" Click="SaveAsButton_Click"></MenuItem>
+        </Menu>
+        <UI:StationUserControl Grid.Row="1" Padding="0,20,0,0" x:Name="StationControl" />
+        
+        
+
+    </Grid>
+</Window>

@@ -1,0 +1,114 @@
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Station.exe
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Station.deps.json
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Station.runtimeconfig.json
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Station.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Station.pdb
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.AssemblyReference.cache
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\UI\StationUserControl.g.cs
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\App.g.cs
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station_MarkupCompile.cache
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station_MarkupCompile.lref
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\MainWindow.baml
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\UI\StationUserControl.baml
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.g.resources
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.GeneratedMSBuildEditorConfig.editorconfig
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.AssemblyInfoInputs.cache
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.AssemblyInfo.cs
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.CoreCompileInputs.cache
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.dll
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\refint\Station.dll
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.pdb
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.genruntimeconfig.cache
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\ref\Station.dll
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\DF\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\DF\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.CopyComplete
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Station.exe
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Station.deps.json
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Station.runtimeconfig.json
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Station.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Station.pdb
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\UI\StationUserControl.g.cs
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station_MarkupCompile.cache
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station_MarkupCompile.lref
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\UI\StationUserControl.baml
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.g.resources
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.AssemblyInfo.cs
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.csproj.CopyComplete
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\refint\Station.dll
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.pdb
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\Station.genruntimeconfig.cache
+C:\Users\denis\Desktop\rail temp\Rails\Station\Station\obj\Debug\net6.0-windows\ref\Station.dll
