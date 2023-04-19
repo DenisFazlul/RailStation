@@ -395,12 +395,12 @@ public partial class StationUserControl : UserControl
     private async void SerchPath_Click(object sender, RoutedEventArgs e) {
 
 
-        List<RailConnectionPoint> points = new List<RailConnectionPoint>();
+        List<RailCurve> points = new List<RailCurve>();
 
         foreach(Shape s in this.selectedElements) {
 
-            if(s.Tag.GetType()==typeof(RailConnectionPoint)) {
-                points.Add(s.Tag as RailConnectionPoint);
+            if(s.Tag.GetType()==typeof(RailCurve)) {
+                points.Add(s.Tag as RailCurve);
             }
         }
         if(points.Count>2&&points.Count==0) {
@@ -408,8 +408,8 @@ public partial class StationUserControl : UserControl
         }
 
         PathSercher sercher = new PathSercher();
-        sercher.SetStartPoint(points[0]);
-        sercher.SetEndPoint(points[1]);
+        sercher.SetSerchigFrom(points[0], points[1]);
+         
         
         sercher.OnFindShortestPath += Sercher_Iteration;
         sercher.OnSercjCompleate += Sercher_Compleate;

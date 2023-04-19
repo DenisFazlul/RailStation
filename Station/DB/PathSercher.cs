@@ -37,8 +37,12 @@ namespace Station.DB
         public event SerchNotification OnFindShortestPath;
         public event SerchNotification OnSerchStart;
 
-        private RailConnectionPoint _start;
-        private RailConnectionPoint _end;
+       // private RailConnectionPoint _start;
+       /// <summary>
+       /// private RailConnectionPoint _end;
+       /// </summary>
+        private RailCurve _startCurve;
+        private RailCurve _endCurve;
 
         private List<RailCurve> _currentCurves;
         private List<CurvesPath> paths { get; set; }
@@ -53,19 +57,19 @@ namespace Station.DB
 
              return _sortestPath;
         }
+        public void SetSerchigFrom(RailCurve from, RailCurve to) {
+            _startCurve = from;
+            _endCurve = to;
+        }
          
-        public void SetStartPoint(RailConnectionPoint st) {
-            _start= st;
-        }
-        public void SetEndPoint(RailConnectionPoint st) { 
-        
-            _end= st;
-        }
+       
         public void RunSerch() {
 
             OnSerchStart?.Invoke(_sortestPath);
             _currentCurves= new List<RailCurve>();
-            RunRecurcive(_start);
+            
+            RunRecurcive(_startCurve.Start);
+            RunRecurcive(_startCurve.End);
             OnSercjCompleate?.Invoke(_sortestPath);
            
 
@@ -77,7 +81,7 @@ namespace Station.DB
             //Thread.Sleep(500);
 
            // Iteration.Invoke(this);
-            if(p.Id==_end.Id) {
+            if(p.IsConnectedCuveIs(_endCurve)) {
                 Iteration?.Invoke(_sortestPath);
                 CreatePath();
                 return;
@@ -117,7 +121,7 @@ namespace Station.DB
 
             if(ShotestPath==null) {
                 _sortestPath = p;
-                OnFindShortestPath.Invoke(_sortestPath);
+                OnFindShortestPath?.Invoke(_sortestPath);
             }
             this.paths.Add(p);
 

@@ -12,6 +12,7 @@ public class RailConnectionPoint : StationElement
     public double X { get; set; }
     public double Y { get; set; }
     public List<RailCurve> ConnectedCurves { get; set; }
+    
     public RailConnectionPoint(Point p) {
         ConnectedCurves = new List<RailCurve>();
         X = p.X;
@@ -45,4 +46,16 @@ public class RailConnectionPoint : StationElement
         }
         return bd.ToString();
     }
+
+    internal bool IsConnectedCuveIs(RailCurve endCurve) {
+        if(ConnectedCurves.Count==0) {
+            return false;
+        }
+        foreach(RailCurve r in ConnectedCurves) {
+            if(endCurve==r) {
+                return true;
+            }
+        }
+        return false;   
+    }   
 }
