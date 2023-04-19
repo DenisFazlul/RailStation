@@ -33,7 +33,7 @@ public class RailPark : StationElement
         return bd.ToString();
     }
 
-    internal List<RailConnectionPoint> getPoints() {
+    public List<RailConnectionPoint> getPoints() {
         List<RailConnectionPoint> list = new List<RailConnectionPoint>();
         foreach (RailCurve c in Segments) {
 
